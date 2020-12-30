@@ -17,13 +17,15 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]] title = "CEO" company = "EXOVAULT" company_url = "" location = "Dublin" date_start = "2020-01-01" date_end = "" description = """"""
+
 [[experience]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""
   location = "California"
   date_start = "2017-01-01"
-  date_end = ""
+  date_end = "2020-01-01"
   description = """
   Responsibilities include:
   
