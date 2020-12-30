@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 organizations:
   - name: Stanford University
