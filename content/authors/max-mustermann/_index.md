@@ -41,7 +41,7 @@ user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-title: Max Mustermann
+title: Max Musterman
 email: ""
 ---
 
