@@ -1,6 +1,6 @@
 ---
 title: "Max Mustermann "
-avatar_filename: avatar
+avatar_filename: ""
 organizations:
   - name: Trinity College Dublin
     url: https://www.tcd.ie/
