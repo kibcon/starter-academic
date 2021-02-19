@@ -1,7 +1,8 @@
 ---
 title: Max Mustermann
+role: PhD Candidate
 avatar_filename: ""
-bio: PhD Candidate
+bio: ""
 interests:
   - SexualViolenceResearch
 social:
