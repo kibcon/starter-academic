@@ -3,7 +3,7 @@ title: Max Mustermann
 role: PhD Candidate
 avatar_filename: ""
 bio: ""
-interests: []
+interests: Sexual Violence Research; knitting
 social:
   - link: mailto:amelie@ameliefreiberg.com
     icon_pack: far
