@@ -8,6 +8,9 @@ social:
   - icon_pack: fab
     icon: twitter
     link: https://twitter.com/interest2crypto
+  - link: https://github.com/kibcon
+    icon_pack: fab
+    icon: github
 organizations:
   - name: Trinity College Dublin
     url: https://www.tcd.ie
