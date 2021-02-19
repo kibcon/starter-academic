@@ -1,6 +1,13 @@
 ---
 title: Max Mustermann
 avatar_filename: ""
+bio: PhD Candidate
+interests:
+  - SexualViolenceResearch
+social:
+  - icon_pack: fas
+    icon: twitter
+    link: https://twitter.com/interest2crypto
 organizations:
   - name: Trinity College Dublin
     url: https://www.tcd.ie
