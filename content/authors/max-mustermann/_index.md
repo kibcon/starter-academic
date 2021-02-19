@@ -5,6 +5,9 @@ bio: PhD Candidate
 interests:
   - SexualViolenceResearch
 social:
+  - link: mailto:amelie@ameliefreiberg.com
+    icon_pack: far
+    icon: envelope
   - icon_pack: fab
     icon: twitter
     link: https://twitter.com/interest2crypto
